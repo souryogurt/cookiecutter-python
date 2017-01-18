@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Tool for merging contacts."""
+"""{{cookiecutter.project_short_description}}"""
 
 __version__ = '{{cookiecutter.version}}'
 __author__ = '{{cookiecutter.full_name}} <{{cookiecutter.email}}>'
