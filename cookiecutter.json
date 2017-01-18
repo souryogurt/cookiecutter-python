@@ -1,0 +1,9 @@
+{
+	"full_name": "Egor Artemov",
+	"email": "egor.artemov@gmail.com",
+  	"github_username": "souryogurt",
+  	"project_name": "spartwoot",
+  	"project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+	"project_short_description": "Application that doing something.",
+  	"version": "0.1.0",
+}
