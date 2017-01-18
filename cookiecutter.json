@@ -5,5 +5,5 @@
   	"project_name": "spartwoot",
   	"project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
 	"project_short_description": "Application that doing something.",
-  	"version": "0.1.0",
+  	"version": "0.1.0"
 }
